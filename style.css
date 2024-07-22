@@ -17,3 +17,5 @@ h1 {
     border-radius: 25px;
     margin-left: 40%;
   }
+body {
+    background: linear-gradient(slateblue, lightblue);
